@@ -1,5 +1,4 @@
 import logo from './LSiconSM.png';
-import './App.css';
 import UnderConstruction from './components/underconstruction.js';
 
 function App() {
