@@ -30,7 +30,6 @@ const UnderConstruction = () => {
                     </div>
 
                     <p>Laine@LaineSimsLCSW.com</p>
-                    <p>703-307-6797</p>
 
 
                     <p>Laine Sims is a Licensed Clinical Social Worker who works with adolescents, adults and families. She has experience and interest in working with individuals and families who are struggling with anxiety, depression, eating disorders, life adjustments, relationship challenges and parenting issues.</p>
