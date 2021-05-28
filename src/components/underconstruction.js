@@ -1,5 +1,5 @@
 import React from 'react';
-import Portrait from "../images/LainePic.jpg"
+import Portrait from "../images/LainePic.jpg";
 
 const UnderConstruction = () => {
 
@@ -16,16 +16,21 @@ const UnderConstruction = () => {
                 <div className="col"></div>
                 <div className="col-md-6">
 
-                    <div className="justify-content-center text-center align-items-center">
+                    <div className="justify-content-center text-center align-items-center mt-5">
 
                         <p>This website for</p>
 
                         <h1>Laine Sims, LCSW</h1>
 
                         <p>is currently under construction.</p>
+
+                        <img src={Portrait} className="my-4" alt="Photo of Laine" />
+
+
                     </div>
 
-                    {Portrait}
+                    <p>Laine@LaineSimsLCSW.com</p>
+                    <p>703-307-6797</p>
 
 
                     <p>Laine Sims is a Licensed Clinical Social Worker who works with adolescents, adults and families. She has experience and interest in working with individuals and families who are struggling with anxiety, depression, eating disorders, life adjustments, relationship challenges and parenting issues.</p>

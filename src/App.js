@@ -1,4 +1,4 @@
-import logo from './LSiconSM.png';
+import React from 'react';
 import UnderConstruction from './components/underconstruction.js';
 
 function App() {
